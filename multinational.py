@@ -1,10 +1,11 @@
 
 
 
-pattern = "1000000"
+pettern = "1000000"
 
 
-print(pattern)
+print(pettern)
+
 
 for i in range(0,10):
     print("hi")
