@@ -1,7 +1,7 @@
 
 
 
-pattern = "1000000"
+pettern = "1000000"
 
 
-print(pattern)
+print(pettern)
